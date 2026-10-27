@@ -44,7 +44,7 @@ phải vấn đề tốc độ code.
 
 ## Yêu cầu
 
-- **Python ≥ 3.10** (web3.py 8 yêu cầu; đã kiểm thử trên 3.10–3.13)
+- **Python ≥ 3.10** (web3.py 8 yêu cầu; dự án hỗ trợ 3.10–3.13)
 - **web3.py ≥ 8.0, < 9.0** (pip tự cài)
 - Một node Ethereum được phép truy vấn:
   - **geth** cục bộ qua IPC `~/.ethereum/geth.ipc` (mặc định), hoặc

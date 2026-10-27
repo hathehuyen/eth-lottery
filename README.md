@@ -93,7 +93,7 @@ implementation bottleneck.
 
 ## Requirements
 
-- **Python ≥ 3.10** (web3.py 8 requires it; tested on 3.10–3.13)
+- **Python ≥ 3.10** (web3.py 8 requires it; the project targets 3.10–3.13)
 - **web3.py ≥ 8.0, < 9.0** (installed automatically)
 - An Ethereum node you are allowed to query:
   - local **geth** with IPC at `~/.ethereum/geth.ipc` (default), or
