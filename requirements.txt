@@ -1,0 +1,3 @@
+# Runtime dependency (Python 3.10+).
+# web3.py 8 is required: older releases lack the snake_case API used here.
+web3>=8.0.0,<9.0.0
